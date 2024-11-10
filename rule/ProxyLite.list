@@ -2,9 +2,13 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,cn.airav.wiki
+DOMAIN-SUFFIX,fc2hub.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,airav
+DOMAIN-KEYWORD,fc2hub
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
